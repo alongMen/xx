@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "53797650",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "53797788",
+      "name": "上传",
+      "font_class": "huabanbeifen",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "53792606",
+      "name": "党建_总导航",
+      "font_class": "dangjian_zongdaohang",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "53792816",
+      "name": "党建_增加",
+      "font_class": "dangjian_zengjia",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "53795415",
+      "name": "党建_搜索",
+      "font_class": "dangjian_sousuo",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "53799301",
+      "name": "党建_修改",
+      "font_class": "dangjian_xiugai",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "53799302",
+      "name": "党建_删除",
+      "font_class": "dangjian_shanchu",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "54708080",
+      "name": "学习  牛大爷",
+      "font_class": "xuexipindao",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "54708081",
+      "name": "查询统计",
+      "font_class": "chaxuntongji",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "54708082",
+      "name": "00000-地推员",
+      "font_class": "-dituiyuan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "54708083",
+      "name": "商户审核",
+      "font_class": "shanghushenhe",
+      "unicode": "e986",
+      "unicode_decimal": 59782
+    },
+    {
+      "icon_id": "54708084",
+      "name": "经销商日常管理",
+      "font_class": "jingxiaoshangrichangguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "54708085",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e979",
+      "unicode_decimal": 59769
+    },
+    {
+      "icon_id": "55083359",
+      "name": "代理商管理",
+      "font_class": "ziyuan",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    }
+  ]
+}
